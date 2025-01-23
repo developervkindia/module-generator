@@ -14,10 +14,8 @@
             "email": "officialvikaskumawat@gmail.com"
         }
     ],
-    "minimum-stability": "stable",
-    "require": {
-        "guzzlehttp/guzzle": "^7.0.1"
-    },
+    "minimum-stability": "dev",
+    "require": {},
     "extra": {
     "laravel": {
         "providers": [
