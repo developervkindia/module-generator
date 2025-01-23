@@ -16,7 +16,7 @@ This Laravel package allows you to generate modules with predefined fields and f
 
 2. Run the following command to require the package:
     ```bash
-    composer require developervkindia/module-generator:dev-main --dev
+    composer require developervkindia/module-generator:dev-master
     ```
 
 ## Usage
